@@ -1,4 +1,4 @@
-Para proporcionar uma análise eficaz e estratégica das métricas de negócios em um e-commerce, desenvolvi um painel gerencial que foi construído em **11 etapas**. Cada passo é fundamental para garantir que o gestor tenha acesso às informações necessárias para a tomada de decisões informadas. A seguir, estão os passos adotados:
+Utilizei Power BI, afim de proporcionar uma análise eficaz e estratégica das métricas de negócios em um e-commerce, desenvolvi um painel gerencial que foi construído em **11 etapas**. Cada passo é fundamental para garantir que o gestor tenha acesso às informações necessárias para a tomada de decisões informadas. A seguir, estão os passos adotados:
 
 **Entendimento dos Dados** - Compreendo as fontes de dados disponíveis, como informações sobre vendas, estoque, clientes e canais de marketing.
 
